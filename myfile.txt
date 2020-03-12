@@ -1,1 +1,4 @@
 so this is a test, where i use cmd to connect with git and try to provoke some conflicts arrrr
+
+
+So this is the second test, written in the git-editor in the browser
